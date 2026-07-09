@@ -152,6 +152,10 @@
 		{
 			"Name": "MetaHumanLiveLink",
 			"Enabled": true
+		},
+		{
+			"Name": "UnrealToColmap",
+			"Enabled": true
 		}
 	]
 }
